@@ -10,3 +10,8 @@ Submit reports, analytics or any document that you wish to analyze, and recieve 
 2. AI-powered feedback generation
 3. Market positioning analysis
 4. Opportunity detection & Forecasting
+
+# Usage
+
+1. Launch the platform and upload the documents that you wish to analyse.
+2. It's done! In a single step, you've gotten ahead of your competition. Recieve your analysis report along with text feedback from Intel360 on the Analytics page.
